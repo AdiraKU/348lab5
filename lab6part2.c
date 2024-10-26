@@ -1,3 +1,5 @@
+
+
 /*Adira Mongar
 ID 3108424
 Lab 6
@@ -134,6 +136,7 @@ void printMatrixToFile(FILE *output_file, int matrix[SIZE][SIZE],int rows,int co
         fprintf(output_file, "\n");
     }
 }
+
 
 
 

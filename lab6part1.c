@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 /*Adira Mongar
 ID 3108424
@@ -106,4 +107,3 @@ void printSalesHighestToLowest(double sales[],char months[]) {
     for (int i = 0; i < 12; i++) {
         printf("%-12s $%.2f\n", months[i], sales[i]);
     }
-}
